@@ -20,9 +20,9 @@ It contains the full English white paper, translations into Russian and Ukrainia
 
 | Language | Local copy (this repo) | Website copy |
 |---|---|---|
-| English | [white-paper/Protopia-Garden-Endowment-Platform-EN.pdf](./white-paper/Protopia-Garden-Endowment-Platform-EN.pdf) | [Download from site](https://www.protopia.garden/wp-content/uploads/2026/04/Protopia-Garden-Endowment-Platform-EN.pdf) |
-| Russian | [white-paper/Protopia-Garden-Endowment-Platform-RU.pdf](./white-paper/Protopia-Garden-Endowment-Platform-RU.pdf) | [Download from site](https://www.protopia.garden/wp-content/uploads/2026/04/Protopia-Garden-Endowment-Platform-RU.pdf) |
-| Ukrainian | [white-paper/Protopia-Garden-Endowment-Platform-UA.pdf](./white-paper/Protopia-Garden-Endowment-Platform-UA.pdf) | [Download from site](https://www.protopia.garden/wp-content/uploads/2026/04/Protopia-Garden-Endowment-Platform-UA.pdf) |
+| English | [white-paper/docs/Protopia-Garden-Endowment-Platform-EN.pdf](./white-paper/docs/Protopia-Garden-Endowment-Platform-EN.pdf) | [Download from site](https://www.protopia.garden/wp-content/uploads/2026/04/Protopia-Garden-Endowment-Platform-EN.pdf) |
+| Russian | [white-paper/docs/Protopia-Garden-Endowment-Platform-RU.pdf](./white-paper/docs/Protopia-Garden-Endowment-Platform-RU.pdf) | [Download from site](https://www.protopia.garden/wp-content/uploads/2026/04/Protopia-Garden-Endowment-Platform-RU.pdf) |
+| Ukrainian | [white-paper/docs/Protopia-Garden-Endowment-Platform-UA.pdf](./white-paper/docs/Protopia-Garden-Endowment-Platform-UA.pdf) | [Download from site](https://www.protopia.garden/wp-content/uploads/2026/04/Protopia-Garden-Endowment-Platform-UA.pdf) |
 
 ## About the concept
 
@@ -49,9 +49,10 @@ endowment_platform/
     ├── README.md                                 ← full English white paper (source of truth)
     ├── CONCEPT-RU.md                             ← Russian translation
     ├── CONCEPT-UA.md                             ← Ukrainian translation
-    ├── Protopia-Garden-Endowment-Platform-EN.pdf
-    ├── Protopia-Garden-Endowment-Platform-RU.pdf
-    └── Protopia-Garden-Endowment-Platform-UA.pdf
+    └── docs/
+        ├── Protopia-Garden-Endowment-Platform-EN.pdf
+        ├── Protopia-Garden-Endowment-Platform-RU.pdf
+        └── Protopia-Garden-Endowment-Platform-UA.pdf
 ```
 
 ## Licenses
