@@ -39,7 +39,7 @@ Our solution is built on five interconnected engines:
 ## Repository structure
 
 ```
-endowment-platform/
+endowment_platform/
 ├── README.md                                     ← this file (router)
 ├── CHANGELOG.md
 ├── LICENSE                                       ← MIT (code and infrastructure files)
