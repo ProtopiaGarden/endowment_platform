@@ -11,9 +11,9 @@
 
 **Download PDF — local copies (this repo):**
 
-- [English PDF](./Protopia-Garden-Endowment-Platform-EN.pdf)
-- [Russian PDF](./Protopia-Garden-Endowment-Platform-RU.pdf)
-- [Ukrainian PDF](./Protopia-Garden-Endowment-Platform-UA.pdf)
+- [English PDF](./docs/Protopia-Garden-Endowment-Platform-EN.pdf
+- [Russian PDF](./docs/Protopia-Garden-Endowment-Platform-RU.pdf)
+- [Ukrainian PDF](./docs/Protopia-Garden-Endowment-Platform-UA.pdf)
 
 **Download PDF — from website:**
 
