@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please use the following citation."
+type: software
+title: "Protopia Garden Endowment Platform — White Paper"
+version: "1.0.0"
+date-released: "2026-04-16"
+authors:
+  - family-names: Konstantinov
+    given-names: Alexey
+  - family-names: Honcharenko
+    given-names: Tetiana
+abstract: >
+  Full English white paper on the Protopia Garden Endowment Platform —
+  digital and distributed long-term resource infrastructure combining
+  impact governance, programmable relationships, and utility endowment
+  for social transformation organizations.
+keywords:
+  - endowment
+  - digital endowment
+  - impact governance
+  - philanthropy
+  - DAO governance
+  - compute commons
+  - utility endowment
+  - social transformation
+  - digital commons
+license: CC-BY-4.0
+repository-code: "https://github.com/ProtopiaGarden/endowment_platform"
+url: "https://www.protopia.garden/endowment/"
