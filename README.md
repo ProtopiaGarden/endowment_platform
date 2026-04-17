@@ -64,6 +64,15 @@ endowment_platform/
 
 See [CITATION.cff](./CITATION.cff) for machine-readable citation metadata.
 
+## Book
+
+The Endowment Platform concept has been published as a book on Amazon:
+
+[![Book cover](https://m.media-amazon.com/images/I/810qdjEySaL._SY522_.jpg)](https://www.amazon.com/dp/B0GX32MJ1P)
+
+**[The Digital Endowment Playbook: A Practical Guide to Building Endowments for European Universities and Civil Society Organisations](https://www.amazon.com/dp/B0GX32MJ1P)**  
+by Tatiana Honcharenko — available on Amazon (Kindle & print).
+
 ## Related
 
 - [AI-Native NGO](https://github.com/ProtopiaGarden/ai-native-ngo) — the sibling public concept repository
